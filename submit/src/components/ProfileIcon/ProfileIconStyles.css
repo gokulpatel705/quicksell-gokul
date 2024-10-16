@@ -1,0 +1,24 @@
+.user {
+  display: flex;
+}
+.user_icon {
+  /* padding: 16px; */
+  height: 1.5vw;
+  width: 1.5vw;
+  background-color: blue;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 700;
+}
+/* .dot {
+  position: relative;
+  top: 25px;
+  right: 15px;
+  color: grey;
+  height: 1vw;
+  width: 0.5vw;
+} */
